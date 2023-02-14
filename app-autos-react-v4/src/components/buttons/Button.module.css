@@ -1,0 +1,14 @@
+/* Module button css */
+
+.button {
+  width: 120px;
+  height: 35px;
+  border: none;
+  padding: 5px 8px;
+  font-size: 13px;
+  color: aliceblue;
+  background-color: rgb(27, 83, 187);
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 12px;
+}
